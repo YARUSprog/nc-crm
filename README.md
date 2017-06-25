@@ -7,17 +7,6 @@ https://docs.google.com/document/d/1WJZPFgQBEWavngPRs_bvx7vtTCTvjBK3QzAl-A2C6k8/
 ER-model:  
 [ER-діаграма CRM системи(0.8.8).pdf](https://github.com/ncProjectRoot/nc-crm/files/1034114/ER-.CRM.0.8.8.pdf)
 
-Production version - http://nc-project.tk 
-1. Customer
-- Login: customer0@gmail.com
-- password: 123123
-2. CSR 
-- Login: csr1@gmail.com
-- password: 123123
-3. PMG 
-- Login: pmg1@gmail.com
-- password: 123123
-
 General business requirements for a software product
 
 | Business Requirement Number  | Description of business requirements |
@@ -43,3 +32,15 @@ General business requirements for a software product
 All business requirements have been met. Also the project is integrated with Gravatar, Google Maps, have dashboards, bulk operations, notifications for CSR  and reports in pdf. 
 
 During the development of the project was used the Scrum methodology 
+
+Production version - http://nc-project.tk 
+1. Customer
+- Login: customer0@gmail.com
+- password: 123123
+2. CSR 
+- Login: csr1@gmail.com
+- password: 123123
+3. PMG 
+- Login: pmg1@gmail.com
+- password: 123123
+
