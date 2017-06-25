@@ -7,7 +7,7 @@ https://docs.google.com/document/d/1WJZPFgQBEWavngPRs_bvx7vtTCTvjBK3QzAl-A2C6k8/
 ER-model:  
 [ER-діаграма CRM системи(0.8.8).pdf](https://github.com/ncProjectRoot/nc-crm/files/1034114/ER-.CRM.0.8.8.pdf)
 
-Production version - nc-project.tk 
+Production version - http://nc-project.tk 
 1. Customer
 - Login: customer0@gmail.com
 - password: 123123
@@ -40,7 +40,6 @@ General business requirements for a software product
 | 16  |The system should enable users with the role of the CSR and the Administrator to sort products (tariff plans, additional services) by parameters (name, area of distribution). |
 | 17  | The system should provide an opportunity to search for products, orders, and accounts.  |
 
-All business requirements have been met
-Also the project is integrated with Gravatar, Google Maps, have dashboards, bulk operations, notifications for CSR  and reports in pdf. 
+All business requirements have been met. Also the project is integrated with Gravatar, Google Maps, have dashboards, bulk operations, notifications for CSR  and reports in pdf. 
 
 During the development of the project was used the Scrum methodology 
